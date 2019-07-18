@@ -12,6 +12,7 @@
 		031B17EC22E0272A00F6026F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031B17EA22E0272A00F6026F /* Main.storyboard */; };
 		031B17EE22E0272D00F6026F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 031B17ED22E0272D00F6026F /* Assets.xcassets */; };
 		031B17F122E0272D00F6026F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 031B17EF22E0272D00F6026F /* LaunchScreen.storyboard */; };
+		031EBD5822E0D7A200F09444 /* Header - Dice Game.png in Resources */ = {isa = PBXBuildFile; fileRef = 031EBD5722E0D7A100F09444 /* Header - Dice Game.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		031B17ED22E0272D00F6026F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		031B17F022E0272D00F6026F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		031B17F222E0272D00F6026F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		031EBD5722E0D7A100F09444 /* Header - Dice Game.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Header - Dice Game.png"; path = "Assets.xcassets/Header - Dice Game.imageset/Header - Dice Game.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				031B17ED22E0272D00F6026F /* Assets.xcassets */,
 				031B17EF22E0272D00F6026F /* LaunchScreen.storyboard */,
 				031B17F222E0272D00F6026F /* Info.plist */,
+				031EBD5722E0D7A100F09444 /* Header - Dice Game.png */,
 			);
 			path = DiceRoll2.0;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				031B17F122E0272D00F6026F /* LaunchScreen.storyboard in Resources */,
 				031B17EE22E0272D00F6026F /* Assets.xcassets in Resources */,
+				031EBD5822E0D7A200F09444 /* Header - Dice Game.png in Resources */,
 				031B17EC22E0272A00F6026F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
